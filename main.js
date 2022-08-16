@@ -21,3 +21,6 @@
       setInterval(setDate, 1000);
 
       setDate();
+
+
+// Done by S.Yakhya
